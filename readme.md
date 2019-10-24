@@ -1,3 +1,8 @@
+[![Project Status: Moved to https://github.com/lecodevert/centrifuge – The project has been moved to a new location, and the version at that location should be considered authoritative.](https://www.repostatus.org/badges/latest/moved.svg)](https://www.repostatus.org/#moved) to [https://github.com/lecodevert/centrifuge](https://github.com/lecodevert/centrifuge)
+
+**There a newer and better version available at [Lecodevert/centrifuge](https://github.com/lecodevert/centrifuge)**
+
+
 # F.Lab's DIYbio Centrifuge
 
 ![demo](doc/4RVZx7.gif)
